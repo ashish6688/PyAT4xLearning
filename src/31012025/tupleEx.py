@@ -8,3 +8,4 @@ cities = ("London", "Paris", "Los Angeles", "Tokyo")
 
 print("Paris" in cities)
 print("shary" in cities)
+
